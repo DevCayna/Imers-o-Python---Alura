@@ -1,4 +1,4 @@
-Esses foram os desafios da segunda aula:
+<h1 align="center"> Esses foram os desafios da segunda aula: </h1>
 
 Crie um gráfico de barras olhando a faixa etária e o valor da variação;
 
